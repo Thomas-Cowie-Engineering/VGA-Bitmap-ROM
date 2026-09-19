@@ -4,6 +4,12 @@
 
 ### 📌 ABSTRACT
 
-> This repository is intended to demonstrate how I adapted Bitmap ROM architecture featured in Tiny Tapeout's VGA Playground to display my own custom sprite on a VGA display. This project serves as a practical guide to understanding hardware-level graphical systems and to appreciate the physics behind how they work. It covers the core principles of VGA timing signals, the Verilog logic required to drive video outputs, and the memory structures used to store and translate pixel data into visual elements on screen.
+> This repository demonstrates how I adapted the Bitmap ROM architecture from **Tiny Tapeout's VGA Playground** to render a custom sprite on a VGA display. 
+
+If you're completely new to VGA and want to build your own project, don't worry! This guide breaks down everything you need to know from the ground up:
+
+* ⚡ **The physics** behind CRT monitors and display signals
+* ⏱️ **VGA timing signals** (Horizontal and Vertical Synchronization)
+* 🧩 **Digital logic** behind translating ROM pixel data to screen coordinates
 
 ---
