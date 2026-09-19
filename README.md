@@ -21,3 +21,6 @@ Below are pictures of my custom, SHaRC inspired sprite that is emulated within V
 
 <img width="479" height="422" alt="image" src="https://github.com/user-attachments/assets/25798571-a2a8-4bdf-9ef0-a5a673b864c9" />
 
+### Development story & educational content
+Follow this along if you'd like to make your own VGA project !
+
