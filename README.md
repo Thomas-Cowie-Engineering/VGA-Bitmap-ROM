@@ -48,11 +48,8 @@ A digital voltage signal that tells the display when a full frame of pixels ends
 
 ## 2. Understanding VGA signal timing.
 
+I'm going to go a bit into the physics behind how the VGA system works but not thorough in depth. You need to have an appreciation for what is actually happening behind the scenes to understand why we need to time signals in a certain way.
 
-
+Physically, the VGA system is implemented by having a electron beam that shines from the top left of the screen to the bottom right. It moves thanks to a electromagnet that is controlled by the h-sync and v-sync signals. 
    
-
-
-
-
 
