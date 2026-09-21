@@ -1,5 +1,9 @@
 # VGA-Bitmap-ROM
 
+
+THIS REPO IS INCOMPLETE
+
+
 ---
 
 ### 📌 ABSTRACT
