@@ -58,7 +58,7 @@ H-sync (0) = Electron beam gets moved back to the left.
 V-sync (1) = Electron beam is moving from the top of the screen to the bottom of the screen.
 V-sync (0) = Electron beam gets moved back to the top.
 
-The process of moving the electron beam takes time and does not happen instantaneously. Therefore, we have what is called "blanking periods"
+The process of moving the electron beam takes time and does not happen instantaneously. Therefore, we have what is called "blanking periods" to account for this. 
 
 
 
