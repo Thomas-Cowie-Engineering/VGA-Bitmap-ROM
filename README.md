@@ -18,13 +18,6 @@ You can simulate this directly in your browser:
 2. **Copy the Source Code:** Grab the Verilog files located in the [`src/`](./src) folder of this repository.
 3. **Run the Simulation:** Replace the modules in the VGA Playground editor with the contents from `src/`.
 
----
-
-## 🛠️ How It Works
-
-* **`bitmap_rom.v`**: Stores the pixel array that represents the SHaRC sprite.
----
-
 ## 🙏 Credits & Acknowledgments
 
 * Built upon the open-source **Logo** project from [Tiny Tapeout VGA Playground](https://tinytapeout.com/).
