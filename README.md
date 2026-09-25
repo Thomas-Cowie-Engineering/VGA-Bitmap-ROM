@@ -1,7 +1,7 @@
 # VGA Bitmap ROM
 
 <p align="center">
-  <em>A custom, SHaRC-inspired sprite ROM generator written in Verilog for VGA output.</em>
+  <em>A custom, SHaRC-inspired sprite, made in Verilog for VGA output.</em>
 </p>
 
 <p align="center">
