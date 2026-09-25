@@ -3,10 +3,7 @@
 <p align="center">
   <em>A custom, SHaRC-inspired sprite, made in Verilog for VGA output.</em>
 </p>
-
-
 ---
-
 ## 📸 Pictures
 
  <img src="https://github.com/user-attachments/assets/57d4b54c-7020-4a87-b52d-1d19b89dd644" height = 380 width="380" alt="VGA Sprite Output 1" /> <img src="https://github.com/user-attachments/assets/25798571-a2a8-4bdf-9ef0-a5a673b864c9" height = 380 width="380" alt="VGA Sprite Output 2" /> 
@@ -24,8 +21,6 @@ You can simulate this directly in your browser:
 ---
 
 ## 🛠️ How It Works
-
-This project intercepts standard VGA timing logic to index into a modified Read-Only Memory (ROM) module:
 
 * **`bitmap_rom.v`**: Stores the pixel array that represents the SHaRC sprite.
 ---
