@@ -4,12 +4,6 @@
   <em>A custom, SHaRC-inspired sprite, made in Verilog for VGA output.</em>
 </p>
 
-<p align="center">
-  <a href="#quick-start">Quick Start</a> •
-  <a href="#screenshots">Screenshots</a> •
-  <a href="#how-it-works">How It Works</a> •
-  <a href="#credits">Credits</a>
-</p>
 
 ---
 
