@@ -9,8 +9,7 @@
 
 ## 📸 Screenshots
 
-| High Contrast Mode | Default Rendering |
-| :---: | :---: |
+
 | <img src="https://github.com/user-attachments/assets/57d4b54c-7020-4a87-b52d-1d19b89dd644" width="380" alt="VGA Sprite Output 1" /> | <img src="https://github.com/user-attachments/assets/25798571-a2a8-4bdf-9ef0-a5a673b864c9" width="380" alt="VGA Sprite Output 2" /> |
 
 ---
